@@ -1,7 +1,6 @@
 import time
 
 def simulate_time():
-    # Your code here
     time.sleep(0.0008)
 
 if __name__ == "__main__":
@@ -14,7 +13,6 @@ if __name__ == "__main__":
 
     # Process the file
     for line in inputFile:
-        # Process the line here
 
         # Sleep for 800 nanoseconds
         simulate_time()

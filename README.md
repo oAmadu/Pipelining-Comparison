@@ -13,6 +13,7 @@ each phase of processing in the pipelined approach takes 200 nanoseconds (0.0002
 
 Finally i tried the python code with (100,1000,10000,100000) Lines of mips code, to see how different it'd be
 Here's a table showing the results
+
 ![image](https://github.com/oAmadu/Pipelining-Comparison/assets/90242708/e7bbe89e-9f1b-49ca-a908-11451c44c323)
 
 ![image](https://github.com/oAmadu/Pipelining-Comparison/assets/90242708/db522169-3c0a-4710-b622-8fe3ae25928f)
